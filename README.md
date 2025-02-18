@@ -47,7 +47,7 @@ This project involves building an AI-powered code editor on top of the **Judge0 
 
 1. Clone the Judge0 IDE repository:
    ```bash
-   git clone [AI---Code-Editor](https://github.com/JIN-15/AI---Code-Editor)
+   git clone [AI---Code-Editor](https://github.com/JIN-15/AI-Code-Editor)
    cd ide
    ```
 
